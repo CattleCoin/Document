@@ -1,8 +1,6 @@
-# Quick Guide
+# Documentations | [简体中文](./README_CN.md)
 
-
-
-##Overview
+## Overview
 
 There are two types of games on the platform:
 

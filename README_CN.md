@@ -1,4 +1,4 @@
-# Quick Guide
+# 文档 | [English](./README.md)
 
 ## 概述
 平台共有两种类型的游戏：
